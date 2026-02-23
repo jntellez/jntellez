@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/github-banner.png" alt="Banner" />
+</div>
 
-<!--
-**jntellez/jntellez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Juan Tellez</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>
+  <samp>
+    <a href='https://github.com/jntellez'>website</a> •
+    <a href='https://www.linkedin.com/in/jntellez'>linkedin</a> •
+    <a href='mailto:juantellez916@gmail.com'>email</a>
+  </samp>
+</div>
