@@ -6,7 +6,7 @@
 
 <div align='center'>
   <samp>
-    <a href='https://jntellez-dev.vercel.app'>website</a> •
+    <a href='https://jntellez.dev'>website</a> •
     <a href='https://www.linkedin.com/in/jntellez'>linkedin</a> •
     <a href='mailto:juantellez916@gmail.com'>email</a>
   </samp>
